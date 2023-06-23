@@ -1,2 +1,2 @@
-# RabbotMQ
+# RabbitMQ
  
