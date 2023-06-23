@@ -31,7 +31,7 @@ namespace Send
         {
             return ((args.Length > 0)
             ? string.Join("", args)
-            : "info: Hola Mundo!");
+            : "info: Noticias de Politica");
         }
     }
 }

@@ -1,0 +1,17 @@
+D:\Proyectos\GitHub\RabbotMQ\publisher_3\bin\Debug\net7.0\publisher_3.exe
+D:\Proyectos\GitHub\RabbotMQ\publisher_3\bin\Debug\net7.0\publisher_3.deps.json
+D:\Proyectos\GitHub\RabbotMQ\publisher_3\bin\Debug\net7.0\publisher_3.runtimeconfig.json
+D:\Proyectos\GitHub\RabbotMQ\publisher_3\bin\Debug\net7.0\publisher_3.dll
+D:\Proyectos\GitHub\RabbotMQ\publisher_3\bin\Debug\net7.0\publisher_3.pdb
+D:\Proyectos\GitHub\RabbotMQ\publisher_3\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\Proyectos\GitHub\RabbotMQ\publisher_3\obj\Debug\net7.0\publisher_3.csproj.AssemblyReference.cache
+D:\Proyectos\GitHub\RabbotMQ\publisher_3\obj\Debug\net7.0\publisher_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\GitHub\RabbotMQ\publisher_3\obj\Debug\net7.0\publisher_3.AssemblyInfoInputs.cache
+D:\Proyectos\GitHub\RabbotMQ\publisher_3\obj\Debug\net7.0\publisher_3.AssemblyInfo.cs
+D:\Proyectos\GitHub\RabbotMQ\publisher_3\obj\Debug\net7.0\publisher_3.csproj.CoreCompileInputs.cache
+D:\Proyectos\GitHub\RabbotMQ\publisher_3\obj\Debug\net7.0\publisher_3.csproj.CopyComplete
+D:\Proyectos\GitHub\RabbotMQ\publisher_3\obj\Debug\net7.0\publisher_3.dll
+D:\Proyectos\GitHub\RabbotMQ\publisher_3\obj\Debug\net7.0\refint\publisher_3.dll
+D:\Proyectos\GitHub\RabbotMQ\publisher_3\obj\Debug\net7.0\publisher_3.pdb
+D:\Proyectos\GitHub\RabbotMQ\publisher_3\obj\Debug\net7.0\publisher_3.genruntimeconfig.cache
+D:\Proyectos\GitHub\RabbotMQ\publisher_3\obj\Debug\net7.0\ref\publisher_3.dll

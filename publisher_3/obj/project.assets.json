@@ -122,19 +122,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
+    "C:\\Users\\Daniel Perez\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Daniel\\Proyectos de Programacion\\GitHub\\RabbotMQ\\publisher_3\\publisher_3.csproj",
+      "projectUniqueName": "D:\\Proyectos\\GitHub\\RabbotMQ\\publisher_3\\publisher_3.csproj",
       "projectName": "publisher_3",
-      "projectPath": "D:\\Daniel\\Proyectos de Programacion\\GitHub\\RabbotMQ\\publisher_3\\publisher_3.csproj",
-      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "D:\\Daniel\\Proyectos de Programacion\\GitHub\\RabbotMQ\\publisher_3\\obj\\",
+      "projectPath": "D:\\Proyectos\\GitHub\\RabbotMQ\\publisher_3\\publisher_3.csproj",
+      "packagesPath": "C:\\Users\\Daniel Perez\\.nuget\\packages\\",
+      "outputPath": "D:\\Proyectos\\GitHub\\RabbotMQ\\publisher_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Daniel Perez\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -179,7 +179,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
