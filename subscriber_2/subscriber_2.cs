@@ -15,11 +15,13 @@ namespace Receive
             {
                 using(var channel = connection.CreateModel())
                 {
-                    channel.ExchangeDeclare(exchange:"logs", type:ExchangeType.Fanout);
+                    channel.ExchangeDeclare(exchange:"Economia", type:ExchangeType.Fanout);
+                    channel.ExchangeDeclare(exchange:"Deportes", type:ExchangeType.Fanout);
 
                     var queuName = channel.QueueDeclare().QueueName;
 
-                    channel.QueueBind(queue:queuName, exchange:"logs", routingKey:"");
+                    channel.QueueBind(queue:queuName, exchange:"Economia", routingKey:"");
+                    channel.QueueBind(queue:queuName, exchange:"Deportes", routingKey:"");
 
                     Console.WriteLine("Waiting for logs...");
 

@@ -13,12 +13,12 @@ namespace Send
             {
                 using(var channel = connection.CreateModel())
                 {
-                    channel.ExchangeDeclare(exchange:"logs", type:ExchangeType.Fanout);
+                    channel.ExchangeDeclare(exchange:"Politica", type:ExchangeType.Fanout);
 
                     string message = GetMessage(args);
                     var body = Encoding.UTF8.GetBytes(message);
 
-                    channel.BasicPublish(exchange: "logs", routingKey: "", basicProperties: null, body: body);
+                    channel.BasicPublish(exchange: "Politica", routingKey: "", basicProperties: null, body: body);
                     Console.WriteLine($"[x] Send {message}");
                 }
             }

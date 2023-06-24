@@ -6,12 +6,16 @@ connection = pika.BlockingConnection(pika.ConnectionParameters(
 
 channel = connection.channel()
 
-channel.exchange_declare(exchange='logs', exchange_type='fanout')
+channel.exchange_declare(exchange='Economia', exchange_type='fanout')
+channel.exchange_declare(exchange='Deportes', exchange_type='fanout')
+channel.exchange_declare(exchange='Politica', exchange_type='fanout')
 
 result = channel.queue_declare(queue='', exclusive=True)
 queue_name = result.method.queue
 
-channel.queue_bind(exchange='logs', queue=queue_name)
+channel.queue_bind(exchange='Economia', queue=queue_name)
+channel.queue_bind(exchange='Deportes', queue=queue_name)
+channel.queue_bind(exchange='Politica', queue=queue_name)
 
 print(' [*] Waiting for logs. To exit press CTRL+C')
 
