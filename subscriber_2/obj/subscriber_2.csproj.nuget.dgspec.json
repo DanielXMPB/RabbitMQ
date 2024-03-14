@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Daniel\\Proyectos de Programacion\\GitHub\\RabbotMQ\\subscriber_2\\subscriber_2.csproj": {}
+    "/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/subscriber_2.csproj": {}
   },
   "projects": {
-    "D:\\Daniel\\Proyectos de Programacion\\GitHub\\RabbotMQ\\subscriber_2\\subscriber_2.csproj": {
+    "/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/subscriber_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Daniel\\Proyectos de Programacion\\GitHub\\RabbotMQ\\subscriber_2\\subscriber_2.csproj",
+        "projectUniqueName": "/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/subscriber_2.csproj",
         "projectName": "subscriber_2",
-        "projectPath": "D:\\Daniel\\Proyectos de Programacion\\GitHub\\RabbotMQ\\subscriber_2\\subscriber_2.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "D:\\Daniel\\Proyectos de Programacion\\GitHub\\RabbotMQ\\subscriber_2\\obj\\",
+        "projectPath": "/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/subscriber_2.csproj",
+        "packagesPath": "/home/danielperez/.nuget/packages/",
+        "outputPath": "/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/danielperez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -54,12 +54,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = publisher_3
-build_property.ProjectDir = D:\Proyectos\GitHub\RabbotMQ\publisher_3\
+build_property.ProjectDir = /home/danielperez/Documentos/GitHub/RabbitMQ/publisher_3/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

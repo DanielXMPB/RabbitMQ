@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8bBhEb2yjiUDomsrtt0rwSYsd+nA49ghaoPTlOrdf3+B5BPwxktnnB7A50pfe19x3v7YJ71XoIbphxMDUfH/gA==",
+  "dgSpecHash": "cr0m9hlIbeKgosqUPIAvh9aHTVcK/Ay9GzcMIT2D5hmHLP2sSKkuS/+sxOUv90LR0FCgyjRuBAXS+sq+707kUw==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos\\GitHub\\RabbotMQ\\publisher_1\\publisher_1.csproj",
+  "projectFilePath": "/home/danielperez/Documentos/GitHub/RabbitMQ/publisher_1/publisher_1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Daniel Perez\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
-    "C:\\Users\\Daniel Perez\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
-    "C:\\Users\\Daniel Perez\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+    "/home/danielperez/.nuget/packages/rabbitmq.client/6.5.0/rabbitmq.client.6.5.0.nupkg.sha512",
+    "/home/danielperez/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/danielperez/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

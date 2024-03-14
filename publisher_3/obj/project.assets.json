@@ -122,19 +122,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Daniel Perez\\.nuget\\packages\\": {}
+    "/home/danielperez/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\GitHub\\RabbotMQ\\publisher_3\\publisher_3.csproj",
+      "projectUniqueName": "/home/danielperez/Documentos/GitHub/RabbitMQ/publisher_3/publisher_3.csproj",
       "projectName": "publisher_3",
-      "projectPath": "D:\\Proyectos\\GitHub\\RabbotMQ\\publisher_3\\publisher_3.csproj",
-      "packagesPath": "C:\\Users\\Daniel Perez\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos\\GitHub\\RabbotMQ\\publisher_3\\obj\\",
+      "projectPath": "/home/danielperez/Documentos/GitHub/RabbitMQ/publisher_3/publisher_3.csproj",
+      "packagesPath": "/home/danielperez/.nuget/packages/",
+      "outputPath": "/home/danielperez/Documentos/GitHub/RabbitMQ/publisher_3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Daniel Perez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/danielperez/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -174,12 +174,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,7 @@
 import pika, sys
 
-connection = pika.BlockingConnection(pika.ConnectionParameters(
-    host='192.168.20.27',
-    credentials=pika.PlainCredentials("daniel", "1234")))
+parameters = pika.URLParameters('amqp://guest:guest@localhost:5672/')
+connection = pika.BlockingConnection(parameters)
 channel = connection.channel()
 
 channel.exchange_declare(exchange='Deportes', exchange_type='fanout')

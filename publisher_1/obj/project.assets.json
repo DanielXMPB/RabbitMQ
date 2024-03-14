@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
+    "net8.0": {
       "RabbitMQ.Client/6.5.0": {
         "type": "package",
         "dependencies": {
@@ -117,34 +117,34 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net7.0": [
+    "net8.0": [
       "RabbitMQ.Client >= 6.5.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Daniel Perez\\.nuget\\packages\\": {}
+    "/home/danielperez/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\GitHub\\RabbotMQ\\publisher_1\\publisher_1.csproj",
+      "projectUniqueName": "/home/danielperez/Documentos/GitHub/RabbitMQ/publisher_1/publisher_1.csproj",
       "projectName": "publisher_1",
-      "projectPath": "D:\\Proyectos\\GitHub\\RabbotMQ\\publisher_1\\publisher_1.csproj",
-      "packagesPath": "C:\\Users\\Daniel Perez\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos\\GitHub\\RabbotMQ\\publisher_1\\obj\\",
+      "projectPath": "/home/danielperez/Documentos/GitHub/RabbitMQ/publisher_1/publisher_1.csproj",
+      "packagesPath": "/home/danielperez/.nuget/packages/",
+      "outputPath": "/home/danielperez/Documentos/GitHub/RabbitMQ/publisher_1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Daniel Perez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/danielperez/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net8.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -155,8 +155,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "dependencies": {
           "RabbitMQ.Client": {
             "target": "Package",
@@ -179,7 +179,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
