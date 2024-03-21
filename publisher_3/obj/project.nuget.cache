@@ -1,15 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "RPo1qABOI63g5gm30JHOHxliFRc/k3z2yM7teXnlUmXNlH2+dqtuSK6DAA/O3h2M7fqmsK6MXUyFCxYOqjS7YA==",
+  "dgSpecHash": "HxSUJOKsLBH/K8wMke3vkLYZfDReZthkErDEUhhbXaUjr0LsG+nQO/e6k2Ao0ITiydJwtqkwgKbvlpln3WqXDA==",
   "success": true,
   "projectFilePath": "/home/danielperez/Documentos/GitHub/RabbitMQ/publisher_3/publisher_3.csproj",
   "expectedPackageFiles": [
     "/home/danielperez/.nuget/packages/rabbitmq.client/6.5.0/rabbitmq.client.6.5.0.nupkg.sha512",
     "/home/danielperez/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
-    "/home/danielperez/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512",
-    "/home/danielperez/.nuget/packages/microsoft.netcore.app.ref/7.0.17/microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
-    "/home/danielperez/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.17/microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
-    "/home/danielperez/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.17/microsoft.netcore.app.host.linux-x64.7.0.17.nupkg.sha512"
+    "/home/danielperez/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

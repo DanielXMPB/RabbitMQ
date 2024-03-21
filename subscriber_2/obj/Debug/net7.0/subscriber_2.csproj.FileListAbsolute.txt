@@ -1,17 +1,35 @@
-D:\Daniel\Proyectos de Programacion\GitHub\RabbotMQ\subscriber_2\bin\Debug\net7.0\subscriber_2.exe
-D:\Daniel\Proyectos de Programacion\GitHub\RabbotMQ\subscriber_2\bin\Debug\net7.0\subscriber_2.deps.json
-D:\Daniel\Proyectos de Programacion\GitHub\RabbotMQ\subscriber_2\bin\Debug\net7.0\subscriber_2.runtimeconfig.json
-D:\Daniel\Proyectos de Programacion\GitHub\RabbotMQ\subscriber_2\bin\Debug\net7.0\subscriber_2.dll
-D:\Daniel\Proyectos de Programacion\GitHub\RabbotMQ\subscriber_2\bin\Debug\net7.0\subscriber_2.pdb
-D:\Daniel\Proyectos de Programacion\GitHub\RabbotMQ\subscriber_2\bin\Debug\net7.0\RabbitMQ.Client.dll
-D:\Daniel\Proyectos de Programacion\GitHub\RabbotMQ\subscriber_2\obj\Debug\net7.0\subscriber_2.csproj.AssemblyReference.cache
-D:\Daniel\Proyectos de Programacion\GitHub\RabbotMQ\subscriber_2\obj\Debug\net7.0\subscriber_2.GeneratedMSBuildEditorConfig.editorconfig
-D:\Daniel\Proyectos de Programacion\GitHub\RabbotMQ\subscriber_2\obj\Debug\net7.0\subscriber_2.AssemblyInfoInputs.cache
-D:\Daniel\Proyectos de Programacion\GitHub\RabbotMQ\subscriber_2\obj\Debug\net7.0\subscriber_2.AssemblyInfo.cs
-D:\Daniel\Proyectos de Programacion\GitHub\RabbotMQ\subscriber_2\obj\Debug\net7.0\subscriber_2.csproj.CoreCompileInputs.cache
-D:\Daniel\Proyectos de Programacion\GitHub\RabbotMQ\subscriber_2\obj\Debug\net7.0\subscriber_2.csproj.CopyComplete
-D:\Daniel\Proyectos de Programacion\GitHub\RabbotMQ\subscriber_2\obj\Debug\net7.0\subscriber_2.dll
-D:\Daniel\Proyectos de Programacion\GitHub\RabbotMQ\subscriber_2\obj\Debug\net7.0\refint\subscriber_2.dll
-D:\Daniel\Proyectos de Programacion\GitHub\RabbotMQ\subscriber_2\obj\Debug\net7.0\subscriber_2.pdb
-D:\Daniel\Proyectos de Programacion\GitHub\RabbotMQ\subscriber_2\obj\Debug\net7.0\subscriber_2.genruntimeconfig.cache
-D:\Daniel\Proyectos de Programacion\GitHub\RabbotMQ\subscriber_2\obj\Debug\net7.0\ref\subscriber_2.dll
+D:/Daniel/Proyectos de Programacion/GitHub/RabbotMQ/subscriber_2/bin/Debug/net7.0/subscriber_2.exe
+D:/Daniel/Proyectos de Programacion/GitHub/RabbotMQ/subscriber_2/bin/Debug/net7.0/subscriber_2.deps.json
+D:/Daniel/Proyectos de Programacion/GitHub/RabbotMQ/subscriber_2/bin/Debug/net7.0/subscriber_2.runtimeconfig.json
+D:/Daniel/Proyectos de Programacion/GitHub/RabbotMQ/subscriber_2/bin/Debug/net7.0/subscriber_2.dll
+D:/Daniel/Proyectos de Programacion/GitHub/RabbotMQ/subscriber_2/bin/Debug/net7.0/subscriber_2.pdb
+D:/Daniel/Proyectos de Programacion/GitHub/RabbotMQ/subscriber_2/bin/Debug/net7.0/RabbitMQ.Client.dll
+D:/Daniel/Proyectos de Programacion/GitHub/RabbotMQ/subscriber_2/obj/Debug/net7.0/subscriber_2.csproj.AssemblyReference.cache
+D:/Daniel/Proyectos de Programacion/GitHub/RabbotMQ/subscriber_2/obj/Debug/net7.0/subscriber_2.GeneratedMSBuildEditorConfig.editorconfig
+D:/Daniel/Proyectos de Programacion/GitHub/RabbotMQ/subscriber_2/obj/Debug/net7.0/subscriber_2.AssemblyInfoInputs.cache
+D:/Daniel/Proyectos de Programacion/GitHub/RabbotMQ/subscriber_2/obj/Debug/net7.0/subscriber_2.AssemblyInfo.cs
+D:/Daniel/Proyectos de Programacion/GitHub/RabbotMQ/subscriber_2/obj/Debug/net7.0/subscriber_2.csproj.CoreCompileInputs.cache
+D:/Daniel/Proyectos de Programacion/GitHub/RabbotMQ/subscriber_2/obj/Debug/net7.0/subscriber_2.csproj.CopyComplete
+D:/Daniel/Proyectos de Programacion/GitHub/RabbotMQ/subscriber_2/obj/Debug/net7.0/subscriber_2.dll
+D:/Daniel/Proyectos de Programacion/GitHub/RabbotMQ/subscriber_2/obj/Debug/net7.0/refint/subscriber_2.dll
+D:/Daniel/Proyectos de Programacion/GitHub/RabbotMQ/subscriber_2/obj/Debug/net7.0/subscriber_2.pdb
+D:/Daniel/Proyectos de Programacion/GitHub/RabbotMQ/subscriber_2/obj/Debug/net7.0/subscriber_2.genruntimeconfig.cache
+D:/Daniel/Proyectos de Programacion/GitHub/RabbotMQ/subscriber_2/obj/Debug/net7.0/ref/subscriber_2.dll
+/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/bin/Debug/net7.0/subscriber_2
+/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/bin/Debug/net7.0/subscriber_2.deps.json
+/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/bin/Debug/net7.0/subscriber_2.runtimeconfig.json
+/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/bin/Debug/net7.0/subscriber_2.dll
+/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/bin/Debug/net7.0/subscriber_2.pdb
+/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/bin/Debug/net7.0/RabbitMQ.Client.dll
+/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/obj/Debug/net7.0/subscriber_2.csproj.AssemblyReference.cache
+/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/obj/Debug/net7.0/subscriber_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/obj/Debug/net7.0/subscriber_2.AssemblyInfoInputs.cache
+/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/obj/Debug/net7.0/subscriber_2.AssemblyInfo.cs
+/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/obj/Debug/net7.0/subscriber_2.csproj.CoreCompileInputs.cache
+/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/obj/Debug/net7.0/subscriber_2.sourcelink.json
+/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/obj/Debug/net7.0/subscriber_2.csproj.CopyComplete
+/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/obj/Debug/net7.0/subscriber_2.dll
+/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/obj/Debug/net7.0/refint/subscriber_2.dll
+/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/obj/Debug/net7.0/subscriber_2.pdb
+/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/obj/Debug/net7.0/subscriber_2.genruntimeconfig.cache
+/home/danielperez/Documentos/GitHub/RabbitMQ/subscriber_2/obj/Debug/net7.0/ref/subscriber_2.dll
