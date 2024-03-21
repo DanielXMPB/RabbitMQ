@@ -2,6 +2,7 @@ import pika, sys
 
 parameters = pika.URLParameters('amqp://guest:guest@localhost:5672/')
 connection = pika.BlockingConnection(parameters)
+
 channel = connection.channel()
 
 channel.exchange_declare(exchange='Deportes', exchange_type='fanout')
